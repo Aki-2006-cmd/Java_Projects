@@ -28,3 +28,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Windows OS
+desktop.ini
+Thumbs.db
+
+# Project Specific IDE files
+.idea/
+*.iml
+
+# Libraries
+lib/
+*.jar
