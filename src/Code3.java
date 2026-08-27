@@ -36,12 +36,12 @@ public class Code3 {
 
         //----------------------------------------------------------------------------------//
 
-        var string = "5";
+        var string = "556785";
 
         /*
         int abs = (int) string;
 
-        python wala wage mehem ba.
+        #### python wala wage mehem ba.
         */
         System.out.println(string);
         int abs = Integer.parseInt(string);
