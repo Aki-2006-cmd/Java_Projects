@@ -1,3 +1,5 @@
+// Switch cases
+
 public class Code9 {
     public static void main (String[] a){
          int n = 1;

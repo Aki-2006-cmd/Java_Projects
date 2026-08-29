@@ -1,3 +1,6 @@
+// Repetition in java  - - - - -  WHILE LOOPS
+
+
 public class Code10 {
     public static void main ( String[] a){
         while (true) {
