@@ -5,7 +5,7 @@ class Calculator{  //  this is how creating class
 
         /* int r = num1 + num2 ;
         methn mehem krnn ba mkd num1 and num2 kiyn ewa thiyenne code 13 kiyn class eke.
-        ewa thiyenne calculator kiyn class eke wage newe.
+        eewa thiyenne calculator kiyn class eke wage newe.
         nikn hriyt python wala function ekakata eliye thiyena variables gann hdnw wge.
         ethkot python wala wage argumentry function ghnw wge ewa pass krnn class eketh ewa pass krnn kramayak thiyenawa
 
