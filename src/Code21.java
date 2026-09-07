@@ -14,7 +14,7 @@ class Student{
 }
 public class Code21 {
     public static void main ( String[] a){
-
+//
         Student s1 = new Student(); // creating s1 object
         s1.rollno = 1;
         s1.name = " Amal";
