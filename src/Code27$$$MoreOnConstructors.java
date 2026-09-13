@@ -1,6 +1,6 @@
-// Constructors
+// Default Vs Parameterized Constructors
 
-class Human2{
+class Human3{
 
     private int age = 11;
     private String name = " Akash " ;
@@ -8,13 +8,18 @@ class Human2{
 
     // constructor part
 
-    public Human2(){
+    public Human3(){                                 // default Constructor
         System.out.println("in constructor");
 
         age = 12;
         name = "himaya"; // putting default values
     }
 
+    public Human3(int a , String n){                 // parameterized constructor
+        age = a;
+        name = n;
+
+    }
     public int getAge() {
         return age;
     }
@@ -32,11 +37,12 @@ class Human2{
     }
 }
 
-public class Code26$$$Constructors {
+public class Code27$$$MoreOnConstructors {
     public static void main(String[] a){
 
 
-        Human2 obj = new Human2();
+        Human3 obj = new Human3();
+        Human3 obj1 = new Human3(12 , "Akash");
 
         obj.setName("Akash");
         obj.setAge(21);
