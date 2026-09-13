@@ -1,7 +1,7 @@
 // Repetition in java  - - - - -  WHILE LOOPS
 
 
-public class Code10 {
+public class Code10$$$WhileLoops {
     public static void main ( String[] a){
         while (true) {
             System.out.println("hi");

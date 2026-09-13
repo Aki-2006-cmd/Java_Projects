@@ -13,7 +13,7 @@ class Calculator1{
     }
 }
 
-public class Code17 {
+public class Code17$$$MethodOverLoading {
     public static void main ( String[] a){
 
 

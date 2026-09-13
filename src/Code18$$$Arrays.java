@@ -1,6 +1,6 @@
 // Arrays ============== in python this is lists
 
-public class Code18 {
+public class Code18$$$Arrays {
     public static void main ( String[ ] a){
 
         int nums[] = { 3,4,5,6 };

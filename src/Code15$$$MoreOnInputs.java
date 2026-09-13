@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Code15 {
+public class Code15$$$MoreOnInputs {
     public static void main (String[] a){
 
 

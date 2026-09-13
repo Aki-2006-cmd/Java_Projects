@@ -2,7 +2,7 @@
 
 import java.util.Random;
 
-public class Code20 {
+public class Code20$$$JaggedArrays {
     public static void main ( String[] a){
 
         int nums[][] = new int [3][];  // jagged arrays

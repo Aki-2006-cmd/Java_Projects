@@ -1,7 +1,7 @@
 //   DO  -  WHILE LOOPS
 
 
-public class Code11 {
+public class Code11$$$Dowhileloops {
     public static void main (String[ ] a){
         int i = 4;
         do {

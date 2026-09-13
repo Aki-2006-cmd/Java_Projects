@@ -4,6 +4,10 @@ class Mobile{
     int price;
     static String name;
 
+    static
+    {
+        System.out.println(" I am happy");
+    }
     public void show(){
 
         System.out.println(brand + " : " + price+ " : " + name);
@@ -13,6 +17,9 @@ class Mobile{
 
         System.out.println("static method");
     }
+
+
+
 }
 public class Code23 {
     public static void main ( String[] a){
@@ -33,9 +40,9 @@ public class Code23 {
         obj3.price = 800;
         Mobile.name  = " SmartPhone";
 
+        obj1.show();
 
-
-
+        //Class.forName("Mobile");
 
 
 

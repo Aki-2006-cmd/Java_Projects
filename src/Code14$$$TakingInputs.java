@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Code14 {
+public class Code14$$$TakingInputs {
     public static void main(String[] a) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@
 import java.util.Random;
 
 
-public class Code19 {
+public class Code19$$$nDArrays {
     public static void main(String[] a) {
 
         int numlist [][]= {{2,3,5,4},{7,5,9,6}};

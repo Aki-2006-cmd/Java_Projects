@@ -1,7 +1,7 @@
 // FOR LOOPS
 
 
-public class Code12 {
+public class Code12$$$ForLoops {
     public static void main (String[] a){
         // python wala wage methn range kiyl function ekka na.
         // ethkot mekt galapenna kramayaik thiyenawa
