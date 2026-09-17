@@ -2,8 +2,8 @@
 
 class Human2{
 
-    private int age = 11;
-    private String name = " Akash " ;
+    private int age ;
+    private String name;
 
 
     // constructor part

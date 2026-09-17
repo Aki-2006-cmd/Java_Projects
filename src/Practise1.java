@@ -8,5 +8,6 @@ class Pratise1 {
                 }
             }
         }
+        return nums;
     }
 }
