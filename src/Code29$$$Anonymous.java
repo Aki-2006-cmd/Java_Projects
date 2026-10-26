@@ -14,7 +14,7 @@ class test{
 
 }
 
-public class Code$$$Anonymous {
+public class Code29$$$Anonymous {
     public static void main(String[] a){
 
         new test();  // Anonymous objects
